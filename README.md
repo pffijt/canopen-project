@@ -1,2 +1,2 @@
-# opencan-project
-Experiments on opencan to understand the communication protocol better
+# canopen-project
+Experiments on canopen to understand the communication protocol better
